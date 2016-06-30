@@ -10,7 +10,6 @@
 		2530DF051D19984700CB70C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2530DF041D19984700CB70C8 /* AppDelegate.swift */; };
 		2530DF071D19984700CB70C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2530DF061D19984700CB70C8 /* ViewController.swift */; };
 		2530DF0A1D19984700CB70C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2530DF081D19984700CB70C8 /* Main.storyboard */; };
-		2530DF0C1D19984700CB70C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2530DF0B1D19984700CB70C8 /* Assets.xcassets */; };
 		2530DF0F1D19984700CB70C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2530DF0D1D19984700CB70C8 /* LaunchScreen.storyboard */; };
 		2530DF1A1D19984700CB70C8 /* boomappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2530DF191D19984700CB70C8 /* boomappTests.swift */; };
 		2530DF251D19984700CB70C8 /* boomappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2530DF241D19984700CB70C8 /* boomappUITests.swift */; };
@@ -230,7 +229,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				2530DF0F1D19984700CB70C8 /* LaunchScreen.storyboard in Resources */,
-				2530DF0C1D19984700CB70C8 /* Assets.xcassets in Resources */,
 				2530DF0A1D19984700CB70C8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
